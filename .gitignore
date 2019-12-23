@@ -1,0 +1,9 @@
+*.perf.*
+*.o
+rainbow
+supervised
+iterative
+*.swp
+table.out*
+.nfs*
+filters*
